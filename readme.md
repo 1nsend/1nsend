@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **1nsend#8207**
 
-- ⚡ Fun fact **I love to study**
+- ⚡ Fun fact **idk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
