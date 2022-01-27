@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1nsend&label=Profile%20views&color=0e75b6&style=flat" alt="1nsend" /> </p>
 
-- 🌱 I’m currently learning **Javascript, CSS, HTML and Lua**
-
-- 💬 Ask me about **games**
-
-- 📫 How to reach me **1nsend#8207**
-
-- ⚡ Fun fact **idk**
+- 🌱 I’m currently learning **Javascript, CSS, HTML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
