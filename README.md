@@ -1,14 +1,22 @@
-<h1 align="center">Hi 👋, I'm 1nsend</h1>
-<h3 align="center">A student learning how to develop</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1nsend&label=Profile%20views&color=0e75b6&style=flat" alt="1nsend" /> </p>
-
-- 🌱 I’m currently learning **Javascript, CSS, HTML**
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1nsend&show_icons=true&locale=en&layout=compact" alt="1nsend" /></p>
+## Olá!
+<div align="center">
+  <a href="https://github.com/1nsend">
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1nsend&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nsend&layout=compact&langs_count=7&theme=react"/> -->
+</div>
+    
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="1ns-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="1ns-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="1ns-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="1ns-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
