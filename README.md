@@ -1,4 +1,4 @@
-## Olá!
+## Hey! 🤙
 <div align="center">
   <a href="https://github.com/1nsend">
   <br>
